@@ -1,55 +1,46 @@
-        for (int item : data) {
-
-            data[i] = (int) (Math.random() * 100) + 1;
-public class RandomDataGenerator {
-    }
-        int[] data = new int[10];
-    public static void main(String[] args) {
-        }
-}
-        }
-
-            System.out.println("Random Number: " + item);
-        for (int i = 0; i < 10; i++) {    for item in data:
-
-
-
-    main()
-
-import random
-    data = generate_random_data()
-    data = [random.randint(1, 100) for _ in range(10)]
-def main():
-if __name__ == "__main__":
-def generate_random_data():
-    return data
-        print(f"Random Number: {item}")    const data = [];
-
-    data.forEach(item => {
-        data.push(Math.floor(Math.random() * 100) + 1);
-
-function generateRandomData() {
     });
+main();
+    }
+        console.log("Random Number: " + item);
+
+}
     const data = generateRandomData();
 
+    const data = [];
     return data;
-    }
+    for (let i = 0; i < 10; i++) {
+        data.push(Math.floor(Math.random() * 100) + 1);
+    data.forEach(item => {
 }
 function main() {
-}
-        console.log("Random Number: " + item);
+
+function generateRandomData() {    return data;
+function generateRandomData() {
+main();
+    }
+    });
+function main() {
+
+
     for (let i = 0; i < 10; i++) {
-main();if __name__ == "__main__":
-    for item in data:
-def generate_random_data():
+    const data = [];
+    data.forEach(item => {
+}
+}
+        data.push(Math.floor(Math.random() * 100) + 1);
+        console.log("Random Number: " + item);
+
+    const data = generateRandomData();
     data = generate_random_data()
 
-    main()
+def generate_random_data():
 import random
-
     return data
-
-
         print(f"Random Number: {item}")
     data = [random.randint(1, 100) for _ in range(10)]
+    main()
+
+
+    for item in data:
+if __name__ == "__main__":
 def main():
